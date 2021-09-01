@@ -18,15 +18,15 @@ social: true  # includes social icons at the bottom of the page
 
 Hi👋! I am a third year Ph.D. student at the Computer Science department at the University of Sheffield🇬🇧. 
 I am working on natural language processing and machine learning, and I am funded by an [Amazon Alexa Fellowship](https://developer.amazon.com/en-US/alexa/alexa-startups/alexa-fund/alexa-fellowship/graduate).
-My two amazing supervisors are [Nikolaos Aletras](https://scholar.google.co.uk/citations?user=uxRWFhoAAAAJ&hl=en) (main) and [Loïc Barrault](https://scholar.google.fr/citations?user=i4IBjw4AAAAJ&hl=en).
+My two amazing supervisors are [Nikolaos Aletras](http://nikosaletras.com/) (main) and [Loïc Barrault](https://loicbarrault.github.io/).
 My research mostly focuses on active learning, low-resource learning, uncertainty estimation, interpretability and language modeling, but I'm fascinated by other topics as well! 
 
 
 Currently, I live in beautiful Copenhagen. I am a visiting PhD student at the University of Copenhagen🇩🇰 and specifically at the [CoAStaL](https://coastalcph.github.io/) group. 
-I am excited to be working with [Anders Søgaard](https://scholar.google.dk/citations?user=x3I4CrYAAAAJ&hl=en) on learning from disagreement and fairness.
+I am excited to be working with [Anders Søgaard](https://anderssoegaard.github.io/) on learning from disagreement and fairness.
 
 In 2019, I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
-Prior, I obtained my diploma on Electrical and Computer Engineering (integrated BEng & MEng) at the National Technical University of Athens (NTUA)🇬🇷.
+Prior, I obtained my diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) (integrated BEng & MEng) at the National Technical University of Athens (NTUA)🇬🇷.
 My thesis was on _Transfer  Learning  and  Attention-based  Conditioning  Methods  for Natural Language Processing_ and I was supervised by [Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).
 
 In my free time, I enjoy yoga, movies and long walks (with iced coffee). I love tennis, skiing, hiking, and bouldering️ (even though I am not good at it)! 
