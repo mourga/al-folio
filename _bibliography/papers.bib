@@ -3,70 +3,78 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,}
+
+@inproceedings{cal,
+abbr={EMNLP},
+      title={Active Learning by Acquiring Contrastive Examples},
+      author={K. Margatina and G. Vernikos
+       and L. Barrault and N. Aletras},
+      year={2021},
+      booktitle = "EMNLP",
+      selected={true},
+      code={https://github.com/mourga/contrastive-active-learning},
+}
+@inproceedings{frustratingly,
+abbr={EMNLP},
+      title={Frustratingly Simple Alternatives to Masked Language Modeling},
+      author={A. Yamaguchi and G. Chrysostomou and K. Margatina and N. Aletras},
+      year={2021},
+      booktitle = "EMNLP",
+      selected={true},
+      code={https://github.com/gucci-j/light-transformer-emnlp2021}
+}
+@inproceedings{margatina2021bayesian,
+      title={Bayesian Active Learning with Pretrained Language Models},
+      author={K. Margatina and L. Barrault and N. Aletras},
+      year={2021},
+      eprint={2104.08320},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      booktitle = "ArXiv",
+      selected={true},
+      arxiv={https://arxiv.org/abs/2104.08320}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
+@inproceedings{vernikos-etal-2020-domain,
+abbr={EMNLP},
+    title = "{D}omain {A}dversarial {F}ine-{T}uning as an {E}ffective {R}egularizer",
+    author = "G. Vernikos, and
+      K. Margatina, and
+      A. Chronopoulou,  and
+      I. Androutsopoulos",
+    booktitle = "EMNLP (Findings)",
+    year = "2020",
+    paper ={https://www.aclweb.org/anthology/2020.findings-emnlp.278},
+    pages = "3103--3112",
+    code={https://github.com/GeorgeVern/AFTERV1.0},
+    abstract = "In Natural Language Processing (NLP), pretrained language models (LMs) that are transferred to downstream tasks have been recently shown to achieve state-of-the-art results. However, standard fine-tuning can degrade the general-domain representations captured during pretraining. To address this issue, we introduce a new regularization technique, AFTER; domain Adversarial Fine-Tuning as an Effective Regularizer. Specifically, we complement the task-specific loss used during fine-tuning with an adversarial objective. This additional loss term is related to an adversarial classifier, that aims to discriminate between in-domain and out-of-domain text representations. Indomain refers to the labeled dataset of the task at hand while out-of-domain refers to unlabeled data from a different domain. Intuitively, the adversarial classifier acts as a regularize which prevents the model from overfitting to the task-specific domain. Empirical results on various natural language understanding tasks show that AFTER leads to improved performance compared to standard fine-tuning.",
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  selected={true}
+@inproceedings{margatina-etal-2019-attention,
+abbr={ACL},
+    title = "Attention-based Conditioning Methods for External Knowledge Integration",
+    author = "K. Margatina,  and
+      C. Baziotis,  and
+      A. Potamianos",
+    booktitle = "ACL",
+    year = "2019",
+    address = "Florence, Italy",
+    paper = {https://www.aclweb.org/anthology/P19-1385},
+    pages = "3944--3951",
+    code={https://github.com/mourga/affective-attention},
+    poster={https://drive.google.com/file/d/1Z0xZ_y_oJKpeeXZ_8z2-sOQJZIQdkagZ/view},
+    abstract = "In this paper, we present a novel approach for incorporating external knowledge in Recurrent Neural Networks (RNNs). We propose the integration of lexicon features into the self-attention mechanism of RNN-based architectures. This form of conditioning on the attention distribution, enforces the contribution of the most salient words for the task at hand. We introduce three methods, namely attentional concatenation, feature-based gating and affine transformation. Experiments on six benchmark datasets show the effectiveness of our methods. Attentional feature-based gating yields consistent performance improvement across tasks. Our approach is implemented as a simple add-on module for RNN-based models with minimal computational overhead and can be adapted to any deep neural architecture.",
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@InProceedings{W18-6209,
+  author = 	"A.* Chronopoulou,
+		and K.* Margatina,
+		and C. Baziotis,
+		and A. Potamianos",
+  title = 	"NTUA-SLP at IEST 2018: Ensemble of Neural Transfer Methods for Implicit Emotion Classification",
+  booktitle = 	"Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis (WASSA)",
+  year = 	"2018",
+  paper = 	"http://aclweb.org/anthology/W18-6209",
+  code={https://github.com/alexandra-chron/ntua-slp-wassa-iest2018},
+  slides={https://drive.google.com/file/d/1hyUx69rVEzyFuBeZPtVWz8_JSb83d7jJ/view}
 }

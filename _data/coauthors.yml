@@ -1,18 +1,35 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Vernikos":
+  - firstname: ["Giorgos", "G."]
+    url: https://scholar.google.com/citations?user=1AgA0_YAAAAJ&hl=en
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Aletras":
+  - firstname: ["Nikolaos", "N."]
+    url: https://scholar.google.co.uk/citations?user=uxRWFhoAAAAJ&hl=en
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Chronopoulou":
+  - firstname: ["Alexandra", "A.", "A.*"]
+    url: https://scholar.google.com/citations?user=XiwRCRIAAAAJ&hl=en
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Barrault":
+  - firstname: ["Loic", "L."]
+    url: https://scholar.google.fr/citations?user=i4IBjw4AAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Androutsopoulos":
+  - firstname: ["Ion", "I."]
+    url: https://scholar.google.com/citations?user=4UJm5EQAAAAJ&hl=en
+
+"Baziotis":
+  - firstname: ["Christos", "C."]
+    url: https://scholar.google.com/citations?user=nP81eYkAAAAJ&hl=en
+
+"Yamaguchi":
+  - firstname: ["Atsuki", "A."]
+    url: https://scholar.google.com/citations?user=BaNSQ0cAAAAJ&hl=ja
+
+"Chrysostomou":
+  - firstname: ["George", "G."]
+    url: https://scholar.google.com/citations?user=t3eShIkAAAAJ&hl=en
+
+"Potamianos":
+  - firstname: ["Alexandros", "A."]
+    url: https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en
