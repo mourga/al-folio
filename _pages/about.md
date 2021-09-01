@@ -27,7 +27,7 @@ I am excited to be working with [Anders Søgaard](https://anderssoegaard.github.
 
 In 2019, I was working as a Machine Learning Engineer at the awesome Greek startup [DeepSea Technologies](https://www.deepsea.ai/). 
 Prior, I obtained my diploma on [Electrical and Computer Engineering](https://www.ece.ntua.gr/en) (integrated BEng & MEng) at the National Technical University of Athens (NTUA)🇬🇷.
-My thesis was on _Transfer  Learning  and  Attention-based  Conditioning  Methods  for Natural Language Processing_ and I was supervised by [Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).
+In my [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/17295/1/Eng_Thesis_Kate.pdf) I worked on _transfer  learning  and  attention-based  conditioning  methods  for natural language processing_ and I was supervised by [Alexandros Potamianos](https://scholar.google.com/citations?user=pBQViyUAAAAJ&hl=en).
 
 In my free time, I enjoy yoga, movies and long walks (with iced coffee). I love tennis, skiing, hiking, and bouldering️ (even though I am not good at it)! 
 I am generally looking forward to the post-Covid era, when we will be able to enjoy travelling again.🦋
